@@ -1,0 +1,91 @@
+html {
+  background-color: #cabfb6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  margin: 0px auto;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-family: "Open Sans";
+  font-size: x-large;
+}
+
+h2 {
+  font-family: "Proza Libre";
+  font-weight: 400;
+  font-size: medium;
+}
+ul {
+  font-family: "Proza Libre";
+}
+
+a {
+  text-decoration: none;
+}
+
+.mediumfont {
+  font-size: medium;
+  font-family: "Proza Libre";
+  padding: 10px;
+}
+
+.center {
+  padding-bottom: 30px;
+  font-family: "Proza Libre";
+  text-align: center;
+  font-size: medium;
+}
+
+.border {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #c9793b;
+  border-radius: 5px;
+}
+
+.Android {
+  font-family: "Proza Libre";
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #a4c93b;
+  border-radius: 5px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: rgb(212, 199, 199);
+}
+
+.Apple {
+  font-family: "Proza Libre";
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #b6bcca;
+  border-radius: 5px;
+  font-size: 20px;
+  border-style: solid;
+  border-color: rgb(212, 199, 199);
+}
+
+.border:hover {
+  background-color: rgb(93, 236, 93);
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+}
